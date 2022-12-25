@@ -68,7 +68,7 @@ public class MainActivity extends AppCompatActivity {
               public void onClick(View view) {
 
                   if(isBoxSelectable(0)){
-                      performAction((ImageView)view,0);
+                      performAction((ImageView) view,0);
                   }
               }
           });
